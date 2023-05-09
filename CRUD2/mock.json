@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 5,
+      "Country": "Nilantha",
+      "City": "Manager",
+      "PostCode": "1236"
+    },
+    {
+      "Country": "Deserunt nesciunt l",
+      "City": "Ex harum rem provide",
+      "PostCode": "Aliquam est et et m",
+      "id": 6
+    },
+    {
+      "Country": "At voluptatem harum ",
+      "City": "Nisi ratione tempori",
+      "PostCode": "Unde proident velit",
+      "id": 7
+    },
+    {
+      "Country": "Nimal",
+      "City": "Manager",
+      "PostCode": "5555",
+      "id": 8
+    },
+    {
+      "Country": "Nihil est ea ipsa ",
+      "City": "Eaque cupiditate nat",
+      "PostCode": "Dolorum deserunt qui",
+      "id": 9
+    }
+  ]
+}

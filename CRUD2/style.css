@@ -1,0 +1,49 @@
+body{
+    background-color:#1D2530;
+}
+h2{
+color: white;
+}
+header{
+    display: flex;
+    justify-content: center;
+    height: 80px;
+    align-items: center;
+    column-gap: 700px;
+    margin-bottom: 50px;
+}
+#searchinp{
+width: 300px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+    color: #ddd;
+  }
+  
+  tr,td,th {
+    border: 1px solid #ddd;
+  }
+  td,
+  th {
+    padding: 5px 10px;
+  }
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+button{
+  padding: 5px 15px;
+  border: none;
+  color: white;
+  border-radius: 10px;
+}
+#add{
+  background-color: rgb(12, 77, 28);
+}
+.editbtn{
+  background-color: rgb(9, 9, 77);
+}
+.deletebtn{
+  background-color: rgb(97, 5, 5);
+}
